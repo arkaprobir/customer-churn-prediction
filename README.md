@@ -26,7 +26,4 @@ streamlit run src/dashboard.py   # launches dashboard
 - 4 customer segments identified via from-scratch K-Means, validated with
   elbow method
 - Top churn drivers: contract type, tenure, internet service type, tech support
-
-## Using the real dataset
-Download "Telco Customer Churn" from Kaggle and replace
-`data/telco_churn.csv` — no other code changes needed, since column names match.
+.
